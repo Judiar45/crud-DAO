@@ -31,7 +31,7 @@
                 <div class="col-md-12">
                     <div class="page-header clearfix">
                         <h2 class="pull-left">Usuarios</h2>
-                        <a href="agregar2.php" class="btn btn-success pull-right">Agregar nuevo usuario</a>
+                        <a href="agregar.php" class="btn btn-success pull-right">Agregar nuevo usuario</a>
                     </div>
                     <?php
                     require_once 'UsuarioDAO.php';
